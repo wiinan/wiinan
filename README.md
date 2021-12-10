@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wiinan.
 - 👀 I’m interested in all areas of programming and technology.
-- 🌱 I’m currently learning all areas of frontend programmation.
+- 🌱 I’m currently learning all areas of programmation in Javascript, Node and React.
 - 💞️ My free times i aways search for other technology area, and i love Videomaker area.
 - 📫 Contact me with email: wiinan2011@gmail.com or phone number +55 081 987495496.
 
