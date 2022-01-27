@@ -10,3 +10,8 @@ You can click the Preview link to take a look at your changes.
 --->
   
 ![Snake animation](https://github.com/victorpereirademelo/victorpereirademelo/blob/output/github-contribution-grid-snake.svg)
+
+<script>
+paranoid: false;
+deleted_at: null
+</script>
