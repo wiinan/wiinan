@@ -9,7 +9,7 @@ wiinan/wiinan is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
   
-![Snake animation](https://github.com/victorpereirademelo/victorpereirademelo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 <script>
 paranoid: false;
