@@ -14,13 +14,13 @@
         👀 I’m interested in all areas of programming and technology.
       </li>
       <li>
-        🌱 I’m currently learning all areas of programmation in Javascript, Node and React.
+        🌱 I’m currently learning all areas of programmation in Javascript, NodeJS, React, Angular and others ORMs.
       </li>
       <li>
         💞️ In my spare time, i always look for other areas of technology, and i've been studying the audiovisual area a lot.
       </li>
       <li>
-        📫 Contact me with email: wiinan2011@gmail.com or phone number +55 081 987495496.
+        📫 Contact me with email: wiinan2011@gmail.com.
       </li>
     </ul>
   </td>
@@ -33,8 +33,3 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Snake animation](https://github.com/wiinan/wiinan/blob/output/github-contribution-grid-snake.svg)
-
-<script>
-paranoid: false;
-deleted_at: null
-</script>
