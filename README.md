@@ -17,7 +17,7 @@
         🌱 I’m currently learning all areas of programmation in Javascript, Node and React.
       </li>
       <li>
-        💞️ My free times i aways search for other technology area, and i love Videomaker area.
+        💞️ In my spare time, i always look for other areas of technology, and i've been studying the audiovisual area a lot.
       </li>
       <li>
         📫 Contact me with email: wiinan2011@gmail.com or phone number +55 081 987495496.
