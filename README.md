@@ -22,6 +22,9 @@
       <li>
         📫 Contact me with email: wiinan2011@gmail.com.
       </li>
+      <li>
+        🔗 www.linkedin.com/in/willian-renan-053683191
+      </li>
     </ul>
   </td>
  </tr>
